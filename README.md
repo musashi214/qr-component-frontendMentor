@@ -17,7 +17,7 @@ A Frontend Mentor project to replicate a given design of a QR code graphic with 
 
 ### Screenshot
 
-![Screenshot](./images/Screenshot-Frontend-Mentor.png)
+![Screenshot](./Screenshot-Frontend-Mentor.png)
 
 ### Links
 
