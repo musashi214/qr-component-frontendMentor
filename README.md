@@ -21,7 +21,7 @@ A Frontend Mentor project to replicate a given design of a QR code graphic with 
 
 ### Links
 
-- Live Site URL: [Live Site](https://mv805.github.io/QR-Code-challenge/)
+- Live Site URL: [Live Site](https://musashi214.github.io/qr-component-frontendMentor/)
 
 ## My process
 
