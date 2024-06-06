@@ -1,0 +1,85 @@
+
+*{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+body{
+  width: 100vw;
+  height: 100vh;
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+
+}
+
+  .container{
+    width: 280px;
+    height: fit-content;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+img{
+width: 90%;
+margin-top: 10px ;
+border-radius:5px 5px;
+
+}
+
+h3{
+  width: 80%;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+
+p{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 500;
+  text-align: center;
+  font-size: 15px;
+  color: rgb(113, 109, 109);
+  /* margin: 10px 0; */
+  margin-top: 0;
+  width: 80%;
+}
+.attribution {
+   font-size: 11px; text-align: center; 
+
+    margin-bottom:20px;
+    /* background-color: azure; */
+    
+    
+}
+.attribution a { color: hsl(228, 45%, 44%);
+ 
+
+}
+@media(max-width:450px){
+    body{
+        justify-content: center;
+      }
+      .attribution{
+        margin:20px;
+      }
+}
+
+
+@media (max-width:376px){
+  body{
+    justify-content: center;
+  }
+  .attribution{
+    margin:20px;
+  }
+}
+
